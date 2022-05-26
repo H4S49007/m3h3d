@@ -12,9 +12,9 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightblue "\e[1m                TEAM KHAN "
+echo -e $lightblue "\e[1m                MEHEDI H4S49 "
 echo " "
-echo -e $yellow "\e[1m                         -TEAM KHAN "
+echo -e $yellow "\e[1m                         -MEHEDI HASAN "
 echo " "
 echo " "
 echo " "
