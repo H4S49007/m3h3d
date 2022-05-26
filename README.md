@@ -16,7 +16,7 @@ apt install ruby -y
 
 gem install lolcat
 
-git clone https://github.com/H4S49007/t-logo.sh
+git clone https://github.com/H4S49007/t-logo.git
 
 cd t-logo.sh
 
