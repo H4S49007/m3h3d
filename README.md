@@ -18,7 +18,7 @@ gem install lolcat
 
 git clone https://github.com/H4S49007/t-logo.git
 
-cd t-logo.sh
+cd t-logo
 
 chmod +x requirement.sh
 
